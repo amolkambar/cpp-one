@@ -1,0 +1,12 @@
+c++ not strictly a superset of C after C99 release.
+
+Philosophy:
+"Trust the Programmer"
+
+Popular use cases
+- Real-time systems
+- Embedded software
+- Audio and video processing
+- Artificial intelligence and neural networks
+
+Enable “Treat warnings as errors”.
